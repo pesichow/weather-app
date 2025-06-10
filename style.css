@@ -1,0 +1,29 @@
+body {
+  font-family: sans-serif;
+  text-align: center;
+  background: #f0f4f8;
+}
+
+.container {
+  margin: 50px auto;
+  padding: 20px;
+  max-width: 500px;
+  background: white;
+  border-radius: 10px;
+  box-shadow: 0 0 10px #ccc;
+}
+
+input {
+  padding: 10px;
+  width: 60%;
+  margin-bottom: 10px;
+}
+
+button {
+  padding: 10px;
+  margin: 5px;
+}
+
+img {
+  vertical-align: middle;
+}
